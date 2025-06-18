@@ -1,3 +1,5 @@
+
+
 class Luar {
     private int a;
     public void setA(int nilai) {
